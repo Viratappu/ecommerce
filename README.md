@@ -1,0 +1,2 @@
+# ecommerce
+Django mini project 
